@@ -36,7 +36,7 @@
 
 ### 나의 상태
 - Java
-- Spring Boot 
+- Spring Boot
 - Mybatis
 - MySQL
 
